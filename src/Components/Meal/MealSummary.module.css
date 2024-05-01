@@ -1,0 +1,11 @@
+.MealSummary {
+  margin-left: 12rem;
+  margin-right: 12rem;
+  background-color: rgb(46, 42, 42);
+  color: white;
+  margin-top: -7rem;
+  z-index: 3;
+  position: relative;
+  border-radius: 2rem;
+  padding: 2rem;
+}
